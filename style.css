@@ -1,6 +1,6 @@
 #btnYes {
     position: absolute;
-    left: 480px;
+    left: 40px;
     top: 450px;
     background-color: #7bd806;
     font-size: 20px;
@@ -8,7 +8,7 @@
 
 #btnNo {
     position: absolute;
-    left: 1200px;
+    left: 1000px;
     top: 450px;
     background-color: #1c0f6b;
     font-size: 20px;
@@ -27,8 +27,8 @@ input {
 #ED {
     position: absolute;
     color: palevioletred;
-    left: 30%;
-    top: 19%;
+    left: 20%;
+    top: 5%;
     font-size: 70px;
 }
 .ed:after{
