@@ -1,6 +1,6 @@
 #btnYes {
     position: absolute;
-    left: 40px;
+    left: 45px;
     top: 450px;
     background-color: #7bd806;
     font-size: 20px;
@@ -8,7 +8,7 @@
 
 #btnNo {
     position: absolute;
-    left: 1000px;
+    left: 800px;
     top: 450px;
     background-color: #1c0f6b;
     font-size: 20px;
